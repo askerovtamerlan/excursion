@@ -8,29 +8,34 @@ footer {
   text-align: right;
 }
 
-hyperLink {
+p {
+  color: Gray;
+  font-size: 21px;
+}
+
+/* HEADINGS */
+
+.headerOne {
+  font-weight: normal;
+  font-size: 50px;
+  color: #fff;
+}
+
+.headerTwo {
+  font-weight: 300;
+  font-size: 42px;
+  color: #fff;
+}
+
+/* LINKS */
+
+.hyperLink {
   color: aquamarine;
   font-size: 16px;
 }
 
-headerOne {
-  font-family: Verdana;
-  font-weight: normal;
-  font-size: 50px;
-  color: white;
-  text-align: center;
-}
+/* FOOTER */
 
-headerTwo {
-  font-family: Verdana;
-  font-weight: 300;
-  font-size: 42px;
-  color: white;
-  text-align: center;
-}
-
-p {
-  font-family: Verdana;
-  color: Gray;
-  text-align: center;
+#footer {
+  text-align: right;
 }
