@@ -4,10 +4,6 @@ body {
   font-family: Vernada, Geneva, Tahoma, saf-serif;
 }
 
-footer {
-  text-align: right;
-}
-
 p {
   color: Gray;
   font-size: 21px;
@@ -34,7 +30,7 @@ p {
   font-size: 16px;
 }
 
-/* FOOTER */
+/* FOOTER COPYRIGHT */
 
 #footer {
   text-align: right;
